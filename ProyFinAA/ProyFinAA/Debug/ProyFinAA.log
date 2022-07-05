@@ -1,5 +1,0 @@
-﻿  ProyectoFinal.cpp
-C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\CURSOS CICLO V\Análisis de algoritmos y estrategia de programación\Semana 12\ProyFinAA\ProyFinAA\ProyectoFinal.cpp(19,26): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\CURSOS CICLO V\Análisis de algoritmos y estrategia de programación\Semana 12\ProyFinAA\ProyFinAA\ProyectoFinal.cpp(226,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Cliente.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  ProyFinAA.vcxproj -> C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\CURSOS CICLO V\Análisis de algoritmos y estrategia de programación\Semana 12\ProyFinAA\Debug\ProyFinAA.exe
